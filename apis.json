@@ -1,0 +1,49 @@
+{
+    "name": "CommaFeed",
+    "description": "<p>Bloat free feed reader.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/commafeed-logo.png",
+    "tags": [
+        "api provider",
+        "feeds",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/commafeed\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CommaFeed",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/commafeed-logo.png",
+            "humanURL": "https:\/\/www.commafeed.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/commafeed-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Documentation",
+            "url": "https:\/\/www.commafeed.com\/api\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Athou\/commafeed"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CommaFeed"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.commafeed.com"
+        }
+    ]
+}
